@@ -4,13 +4,13 @@ I am Lovisha Arora, a BTech Bioinformatics student based in India primarily inte
 
 My tech stack includes:
 - C, Python, Python Pandas and NumPy
-- Microsoft Excel
+- Microsoft Excel, Power BI, SQL
 - BLAST, MEGA, PyMol, T-Coffe, Clustal W
 - Canva, VN, Capcut
 
 I am currently working on a project called DNA to Protein applying my Python skills.
 
-Skills on my "mastering soon" list are: Power BI, SQL and BioPython.
+Skill on my "mastering soon" list: BioPython.
 
 I am open to working on projects together and you can reach me out through my LinkedIn.
 <!--
