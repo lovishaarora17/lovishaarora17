@@ -3,7 +3,8 @@
 I am Lovisha Arora, a BTech Bioinformatics student based in India primarily interested in Data Analytics & Science and Scoial media marketing and management.
 
 My tech stack includes:
-- C, Python, Python Pandas and NumPy
+- C, Python
+- Python Libraries: Pandas, NumPy, Matplotlib, streamlit
 - Microsoft Excel, Power BI, SQL
 - BLAST, MEGA, PyMol, T-Coffe, Clustal W
 - Canva, VN, Capcut
