@@ -1,6 +1,6 @@
 ## Hi there, welcome to my little GitHub corner🌼
 
-I am Lovisha Arora, a BTech Bioinformatics student based in India primarily interested in Data Analytics & Science and Scoial media marketing and management.
+I am Lovisha Arora, a BTech Bioinformatics student based in India primarily interested in Data Analytics & Science and Social media marketing and management.
 
 My tech stack includes:
 - C, Python
